@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jack755051/gxun2025_backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jack755051/gxun2025_frontend
